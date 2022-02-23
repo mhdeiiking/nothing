@@ -3,7 +3,7 @@ import uuid
 import requests
 from uuid import uuid4
 
-bot = telebot.TeleBot("5247038079:AAFVfl9iJnqRVxnBS08R7h9WVqWCwbIsgsQ")
+bot = telebot.TeleBot("5247038079:AAG2HH6686hsqXPmaGX7wGgTTv_CPhGhebM")
 url = 'https://i.instagram.com/api/v1/accounts/login/'
 headers = {'User-Agent': 'Instagram 113.0.0.39.122 Android (24/5.0; 515dpi; 1440x2416; huawei/google; Nexus 6P; angler; angler; en_US)',
         'Accept': "*/*",
